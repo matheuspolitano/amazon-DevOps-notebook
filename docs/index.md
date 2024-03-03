@@ -6,4 +6,4 @@ i have been started my studies to get  Devops Certification from Amazon, and eve
 
 ## Main Topics
 
-1. Domain-SDLC
+1. Domain - Software Development Lifecicle
